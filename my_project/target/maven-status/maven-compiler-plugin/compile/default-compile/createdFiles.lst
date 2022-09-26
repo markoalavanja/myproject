@@ -1,0 +1,12 @@
+my_project\my_project\controller\DeloviController.class
+my_project\my_project\repository\DeloviRepository.class
+my_project\my_project\service\UserService.class
+my_project\my_project\MyProjectApplication.class
+my_project\my_project\service\DeloviService.class
+my_project\my_project\controller\UserController.class
+my_project\my_project\service\impl\UserServiceImpl.class
+my_project\my_project\repository\UserRepository.class
+my_project\my_project\domain\User.class
+my_project\my_project\domain\Delovi.class
+my_project\my_project\service\impl\DeloviServiceImpl.class
+my_project\my_project\exception\UserException.class

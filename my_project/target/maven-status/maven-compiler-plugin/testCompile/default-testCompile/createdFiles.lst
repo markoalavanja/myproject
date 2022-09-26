@@ -1,0 +1,4 @@
+my_project\my_project\controller\UserControllerTests.class
+my_project\my_project\service\DeloviServiceTests.class
+my_project\my_project\service\UserServiceTests.class
+my_project\my_project\MyProjectApplicationTests.class
